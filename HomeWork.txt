@@ -1,0 +1,5 @@
+Bisection Method In Google Sheet : https://docs.google.com/spreadsheets/d/1vzAghL1WFJvD2Zt4AsiW7AvGtU2hIEuyvYSPy7kfiTo/edit?usp=sharing
+
+Bisection Method In GitHub : https://github.com/a7x3a/Bisection.git  
+
+Bisection Method in Colab : https://colab.research.google.com/gist/a7x3a/0d200be0fcd82eb24c1906407d958044/bisction_ahmad.ipynb
